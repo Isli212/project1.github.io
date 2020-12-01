@@ -75,7 +75,7 @@ background-color: red;
 /*hero section*/
 #hero {
 
-  background-image: url(bravo.jpg);
+  background-image: url(./bravo.jpg);
   background-size: cover;
   background-position: top center;
   position: relative;
